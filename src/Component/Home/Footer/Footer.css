@@ -1,0 +1,14 @@
+.footer{
+    color: rgb(190, 220, 250);
+}
+.social-icon a{
+    color: rgb(190, 220, 250);
+    font-size: 35px;
+}
+.footer span a{
+    color: #e94560;
+}
+.mr-3:hover{
+    color: #e94560;
+    transition:.5s;
+}

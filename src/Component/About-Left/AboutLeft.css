@@ -1,0 +1,14 @@
+.about-left h2{
+    color: #e94560 ;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-bottom: 25px;
+}
+.about-left h4{
+    color: #d6d2c4;
+    font-weight: bold;
+}
+.badge-bg{
+    background-color: #389393 !important;
+    color: #1a1a2e;
+}

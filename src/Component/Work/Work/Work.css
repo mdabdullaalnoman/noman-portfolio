@@ -1,0 +1,19 @@
+.text-center h2{
+   color: rgb(190, 220, 250);
+}
+.text-center h2{
+   animation: type 3s steps(8) ;
+   overflow: hidden;
+   white-space: nowrap;
+   font-family: consolas;
+   border-right: 4px solid rgb(190, 220, 250) ;
+   text-align: center;
+}
+@keyframes type{
+   0% {
+      width: 0ch;
+   }
+   100%{
+      width:8ch;
+   }
+}
